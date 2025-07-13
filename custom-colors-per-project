@@ -1,3 +1,14 @@
 create a folder under main project  ".vscode"
   create a file under that settings.json
-  
+
+
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background":"#f40410cc",
+        "activityBar.foreground":"#2ce004",
+        "activityBar.activeBackground": "#6600ff",
+        "statusBar.background":"#f5e903",
+        "statusBar.foreground":"#4a04ec",
+        "titleBar.activeBackground":"#f60707"
+    }
+}
