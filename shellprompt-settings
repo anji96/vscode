@@ -1,0 +1,18 @@
+VS code.
+  1) Wheel Icon -->  Open settings Type: "workbench.colorCustomizations" open the settings json file.
+
+
+    {
+    "workbench.colorTheme": "Default High Contrast",
+    "editor.accessibilitySupport": "on",
+    "security.workspace.trust.untrustedFiles": "open",
+    "aws.suppressPrompts": {
+        "codeWhispererConnectionExpired": true
+    },
+    "workbench.colorCustomizations": {
+        "terminal.foreground":"#10ea59",
+        "terminal.background":"#c3ff00",
+        "terminalCursor.foreground":"#ffc800"
+
+    }``
+}
